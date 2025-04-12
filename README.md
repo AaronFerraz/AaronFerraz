@@ -26,10 +26,18 @@ Adoro explorar o que a tecnologia tem a nos oferecer, com a consolidação do ap
   </table>
 </details>
 
+<details> 
+  <summary> Projetos Pessoais ✅ </summary>
+  <table>
+  </table>
+</details>
+
 <br>
 
-| ![Informações da conta](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AaronFerraz&theme=aura) | ![Linguagens usadas nos repositórios](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AaronFerraz&hide=Html&theme=aura) |
-| :-: | :-: |
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AaronFerraz&theme=aura"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AaronFerraz&hide=Html&theme=aura">
+</div>
 
 <br>
 
