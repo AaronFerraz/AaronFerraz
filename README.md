@@ -71,3 +71,9 @@ Adoro explorar o que a tecnologia tem a nos oferecer, com a consolidação do ap
 </div>
 
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AaronFerraz/AaronFerraz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AaronFerraz/Aar/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AaronFerraz/AaronFerraz/output/github-contribution-grid-snake.svg">
+</picture>
+
